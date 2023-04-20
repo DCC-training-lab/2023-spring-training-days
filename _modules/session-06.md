@@ -1,5 +1,5 @@
 ---
-title: "Meeting 6: Introduction to Linked Open Data: meta data on dataset level, standards in disciplines"
+title: "Session 6 ( Thursday June 22, 09:30-13:30) (includes lunch)  Organizing your data and software with a reproducible workflow"
 ---
 
 06.07.2023
