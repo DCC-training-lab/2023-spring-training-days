@@ -1,5 +1,5 @@
 ---
-title: "Meeting 5: Organizing your Data"
+title: "Meeting 5: Practical Pedagogical Techniques"
 ---
 
 22.06.2023
@@ -8,7 +8,7 @@ title: "Meeting 5: Organizing your Data"
 : The abstract for this session can be written here...
 
 : **Teachers**{: .label .label-green }
-- [Jane Smith](#) (VU)
-- [Carol Webber](#) (eScience Center)
+- [Mateusz Kuzak](#) (eScience Center)
+- [Lieke de Boer](#) (eScience Center)
 
 : **Audience**{: .label .label-yellow }Support staff and researchers
