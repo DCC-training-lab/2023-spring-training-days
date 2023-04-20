@@ -10,5 +10,6 @@ title: "Meeting 5: Organizing your Data"
 : **Teachers**{: .label .label-green }
 - [Jane Smith](#) (VU)
 - [Carol Webber](#) (eScience Center)
+- others
 
 : **Audience**{: .label .label-yellow }Support staff and researchers
