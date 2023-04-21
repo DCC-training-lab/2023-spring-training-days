@@ -1,5 +1,5 @@
 ---
-title: "Meeting 1: Community development, DMP, Escape Room"
+title: "Meeting 1: Engagement: connecting researchers and data stewards"
 ---
 
 11.05.2023
