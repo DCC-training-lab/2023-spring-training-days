@@ -8,6 +8,7 @@ title: "Meeting 3: Introduction to Anonymisation and Pseudonymisation"
 : The abstract for this session can be written here... Advanced course
 
 : **Teachers**{: .label .label-green }
+Afshin Amighi.
 - [Jane Smith](#) (VU)
 - [Carol Webber](#) (eScience Center)
 
