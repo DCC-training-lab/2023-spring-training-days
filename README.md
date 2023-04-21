@@ -17,7 +17,7 @@ seo:
 This session is a Train the Trainer session. The abstract for this session can be written here...
 
 1. flipped (inverted) class rooms
-2. instructional videos (Burcu?
+2. instructional videos (Burcu?)
 3. training content on the website
 
 ....
